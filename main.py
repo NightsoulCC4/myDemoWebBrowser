@@ -1,4 +1,8 @@
 import sys
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from tkinter import *
+import time
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWebEngineWidgets import *
